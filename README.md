@@ -1,4 +1,4 @@
-# Discord Member Monitor
+# SelfBot Discord V1
 
 ## Descrição
 
